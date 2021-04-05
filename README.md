@@ -2,15 +2,20 @@
 
 😄 Pronouns: he/him
 
+## About Me 
+I've worked in digital marketing for 5-6 years and am now studying Full-Stack Javascript Software Development at CodeFellows. My expected graduation date is August 2021.
+
+## Resources
+[Code Fellows Reading Notes](reading-notes.md)<br/>
+[Code Fellows Projects](/projects/README.md)<br/>
+[Personal Website - dnhaugen.com](https://www.dnhaugen.com)<br/>
+[Instagram](https://www.instagram.com/danyelhaugen)<br/>
+[LinkedIn](https://www.linkedin.com/in/danielnhaugen)
+
 
 [![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-haugen&layout=compact&theme=nord&card_width=800)](https://github.com/HexxKing/github-readme-stats)
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-haugen&theme=nord)](https://github.com/daniel-haugen/github-readme-stats)
-
-
-
-
-
 
 
 <!--
