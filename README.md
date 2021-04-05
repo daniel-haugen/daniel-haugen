@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello 👋
+
+😄 Pronouns: he/him
+
+
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-haugen)](https://github.com/daniel-haugen/github-readme-stats)
+
+
+
+
+
+
 
 <!--
 **daniel-haugen/daniel-haugen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
