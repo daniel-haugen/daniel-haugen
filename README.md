@@ -1,8 +1,8 @@
 # Hello 👋
 
+## About Me 
 😄 Pronouns: he/him
 
-## About Me 
 I've worked in digital marketing for 5-6 years and am now studying Full-Stack Javascript Software Development at CodeFellows. My expected graduation date is August 2021.
 
 ## Resources
