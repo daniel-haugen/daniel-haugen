@@ -3,7 +3,7 @@
 😄 Pronouns: he/him
 
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-haugen)](https://github.com/daniel-haugen/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-haugen?theme=nord)](https://github.com/daniel-haugen/github-readme-stats)
 
 
 
