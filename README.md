@@ -3,6 +3,8 @@
 😄 Pronouns: he/him
 
 
+[![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-haugen&layout=compact&theme=nord&card_width=800)](https://github.com/HexxKing/github-readme-stats)
+
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-haugen&theme=nord)](https://github.com/daniel-haugen/github-readme-stats)
 
 
