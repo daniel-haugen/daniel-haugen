@@ -15,7 +15,7 @@ I've worked in digital marketing for 5-6 years and am now studying Full-Stack Ja
 
 [![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-haugen&layout=compact&theme=nord&card_width=800)](https://github.com/daniel-haugen/github-readme-stats)
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-haugen&theme=nord)](https://github.com/daniel-haugen/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-haugen&theme=nord&layout=compact&card_width=800)](https://github.com/daniel-haugen/github-readme-stats)
 
 
 <!--
