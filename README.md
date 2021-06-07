@@ -3,7 +3,7 @@
 ## About Me 
 😄 Pronouns: he/him
 
-I've worked in digital marketing for 5-6 years and am now studying Full-Stack Javascript Software Development at CodeFellows. My expected graduation date is August 2021.
+I've worked in digital marketing for 5-6 years and studied Full-Stack Javascript at CodeFellows.  
 
 ## Resources
 [Code Fellows Reading Notes](https://daniel-haugen.github.io/notebook/reading-notes.html)<br/>
