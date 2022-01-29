@@ -3,8 +3,6 @@
 ## About Me 
 😄 Pronouns: he/him
 
-I've worked in digital marketing for 5-6 years and studied Full-Stack Javascript at CodeFellows.  
-
 ## Resources
 [Code Fellows Reading Notes](https://daniel-haugen.github.io/notebook/reading-notes.html)<br/>
 [Code Fellows Projects](https://daniel-haugen.github.io/notebook/projects/)<br/>
@@ -16,19 +14,3 @@ I've worked in digital marketing for 5-6 years and studied Full-Stack Javascript
 [![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-haugen&layout=compact&theme=nord&card_width=800)](https://github.com/daniel-haugen/github-readme-stats)
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-haugen&theme=nord&layout=compact&card_width=800)](https://github.com/daniel-haugen/github-readme-stats)
-
-
-<!--
-**daniel-haugen/daniel-haugen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
