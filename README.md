@@ -1,7 +1,7 @@
 # Hello 👋
 
 ## About Me 
-😄 
+😄 \n
 Pronouns: he/him
 
 ## Resources
