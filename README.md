@@ -1,7 +1,8 @@
 # Hello 👋
 
 ## About Me 
-😄 Pronouns: he/him
+😄 
+Pronouns: he/him
 
 ## Resources
 [Code Fellows Reading Notes](https://daniel-haugen.github.io/notebook/reading-notes.html)<br/>
